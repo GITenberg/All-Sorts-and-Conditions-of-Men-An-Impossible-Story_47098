@@ -1,4 +1,8 @@
 _repo: All-Sorts-and-Conditions-of-Men-An-Impossible-Story_47098
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47098-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Rice, James
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5404
     wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47098#All-Sorts-and-Conditions-of-Men-An-Impossible-Story
 gutenberg_issued: '2014-10-12'
 gutenberg_type: Text
 identifiers:
